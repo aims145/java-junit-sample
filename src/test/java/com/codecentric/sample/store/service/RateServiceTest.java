@@ -49,7 +49,7 @@ public class RateServiceTest {
         });
     }
 
-    @Parameterized.Parameter(value = 0)
+    @Parameterized.Parameter(value = 10)
     public Item item;
 
     @Parameterized.Parameter(value = 1)
